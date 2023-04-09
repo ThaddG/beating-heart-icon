@@ -2,6 +2,8 @@
   "name": "beating-heart-icon",
   "version": "1.1.2",
   "description": "A flat beating heart icon",
+  "author": "thaddg",
+  "repository": "github:ThaddG/beating-heart-icon",  
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
@@ -11,7 +13,6 @@
     "react": "^17.0.0",
     "react-dom": "^17.0.0"
   },
-  "author": "thaddg",
   "license": "MIT",
   "devDependencies": {
     "@types/react": "^18.0.33",
